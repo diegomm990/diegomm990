@@ -8,6 +8,8 @@ I am a Full Stack Web Developer.
 
 I am always looking forward to learn new skills and technologies.
 
+You can look up my LinkedIn profile
+
 <a href="https://www.linkedin.com/in/diego-martinez-full-stack-developer/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> </br>
